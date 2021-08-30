@@ -5,8 +5,8 @@
 ## 个人信息 
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：24  
-* 手 机：18772805296 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;邮 箱：18772805296@163.com 
-* 籍 贯：湖北省 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;学 历：硕士
+* 手 机：18772805296&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&emsp;邮 箱：18772805296@163.com 
+* 籍 贯：湖北省&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;学 历：硕士
 
 ## 工作及教育经历
 
@@ -64,3 +64,4 @@
 * 面对多个任务能够冷静对待，会思考孰轻孰重，确定好方针，坚决执行。
 * 追求高效，完美的完成本职工作，积极与其他同事相互交流，相互提升。
 
+## 其他
