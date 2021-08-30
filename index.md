@@ -4,9 +4,11 @@
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;年 龄：24  
-* 手 机：18772805296&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;邮 箱：18772805296@163.com 
-* 籍 贯：湖北省&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;学 历：硕士
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;年 龄：24  
+* 手 机：18772805296&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;邮 箱：18772805296@163.com 
+* 籍 贯：湖北省&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;学 历：硕士
+
+
 
 ## 工作及教育经历
 
@@ -65,3 +67,6 @@
 * 追求高效，完美的完成本职工作，积极与其他同事相互交流，相互提升。
 
 ## 其他
+![snake](img/snake.gif)
+![colorfight](img/colorfight.gif)
+![racing](img/racing.gif)
