@@ -4,9 +4,9 @@
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：24  
-* 手 机：18772805296&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&emsp;邮 箱：18772805296@163.com 
-* 籍 贯：湖北省&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;学 历：硕士
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;年 龄：24  
+* 手 机：18772805296&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;邮 箱：18772805296@163.com 
+* 籍 贯：湖北省&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;学 历：硕士
 
 ## 工作及教育经历
 
